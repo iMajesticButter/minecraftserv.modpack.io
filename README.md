@@ -1,4 +1,5 @@
 # minecraftserv.modpack.io
 
 ignore this repo...
-only in use for local modpack
+only in use for local modpack.
+Was replaced with Dropbox because the files for to big...
